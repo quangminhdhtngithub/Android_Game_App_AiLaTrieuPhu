@@ -1,8 +1,8 @@
-package com.example.ai_la_trieu_phu.object;
+package com.example.android_game_app_ailatrieuphu.object;
 
 import android.content.Context;
 
-import com.example.ai_la_trieu_phu.sqlite.DBManager;
+import com.example.android_game_app_ailatrieuphu.sqlite.DBManager;
 
 import java.util.ArrayList;
 import java.util.Random;

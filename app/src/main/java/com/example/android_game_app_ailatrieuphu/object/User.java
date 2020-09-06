@@ -1,4 +1,4 @@
-package com.example.ai_la_trieu_phu.object;
+package com.example.android_game_app_ailatrieuphu.object;
 
 public class User {
         private int id;
